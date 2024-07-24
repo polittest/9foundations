@@ -115,15 +115,15 @@
     rightArray = ["Unitary","Authoritarian","Isolationist","Pacifist","Freedom","Markets","Religious","Traditional","Multiculturalist"]
 
     function setLabel(val,axis) {
-        if (val >= 90) { return "Fanatic " + leftArray[axis] } else
-        if (val >= 80) { return "Extreme " + leftArray[axis] } else
-        if (val >= 70) { return leftArray[axis] } else
-        if (val >= 60) { return "Moderate " + leftArray[axis] } else
-        if (val > 40) { return "Neutral" } else
-        if (val > 30) { return "Moderate " + rightArray[axis] } else
-        if (val > 20) { return rightArray[axis] } else
-        if (val > 10) { return "Extreme " + rightArray[axis] } else
-        	{return "Fanatic " + rightArray[axis]}
+        if (val >= 90) { return "" } else
+        if (val >= 80) { return "" } else
+        if (val >= 70) { return "" } else
+        if (val >= 60) { return ""} else
+        if (val > 40) { return "" } else
+        if (val > 30) { return ""} else
+        if (val > 20) { return ""} else
+        if (val > 10) { return ""} else
+        	{return ""}
     }
 
     a  = getQueryVariable("a")
