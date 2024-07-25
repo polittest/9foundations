@@ -1,9 +1,7 @@
 questions = 
     [[//Federal-Unitary`
         [//4
-            "There is no need for a national government",
-            "Subdivisions of nations should have their own militaries",
-            "State laws should have precedence over national laws"
+            
         ],
         [//3
             "State and local laws should have precedence over national laws",
