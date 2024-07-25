@@ -183,5 +183,41 @@
     }
     
     document.getElementById("ideology-label").innerHTML = ideology
+   function createImage(src, x, y, w, h) {
+        img = new Image ()
+        img.src = src
+        img.onLoad = function() {
+            ctx.drawImage(img, x, y, w, h)
+        }
+    }
 
+    window.onload = function() {
+        var c = document.getElementById("banner")
+        var ctx = c.getContext("2d")
+        ctx.fillStyle = "#EEEEEE"
+        ctx.fillRect(0,0,800,1200)
+
+        img = document.getElementById("img-federal")
+        ctx.drawImage(img, 10, 120, 100, 100);    
+        img = document.getElementById("img-democratic")
+        ctx.drawImage(img, 10, 240, 100, 100)
+        img = document.getElementById("img-globalist")
+        ctx.drawImage(img, 10, 360, 100, 100)
+        img = document.getElementById("img-militarist")
+        ctx.drawImage(img, 10, 480, 100, 100)
+        img = document.getElementById("img-security")
+        ctx.drawImage(img, 10, 600, 100, 100)
+        img = document.getElementById("img-equality")
+        ctx.drawImage(img, 10, 720, 100, 100)
+        img = document.getElementById("img-secular")
+        ctx.drawImage(img, 10, 840, 100, 100)
+        img = document.getElementById("img-progress")
+        ctx.drawImage(img, 10, 960, 100, 100)
+        img = document.getElementById("img-assimilation")
+        ctx.drawImage(img, 10, 1080, 100, 100)
+
+        
+
+    }
+    </script>
 </body>
