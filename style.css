@@ -151,92 +151,111 @@ div.text-wrapper {
 div.federal {
     background-color: #ffeb3b;
     text-align: left;
-    border-right-style: solid;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.unitary {
     background-color: #f44336;
-    text-align: right;
-    border-left-style: solid;
+    text-align: left;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.democratic {
     background-color: #00897b;
     text-align: left;
-    border-right-style: solid;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.authority {
     background-color: #ff9800;
-    text-align: right;
-    border-left-style: solid;
+    text-align: left;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.globalist {
     background-color: #03a9f4;
     text-align: left;
-    border-right-style: solid;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.isolation {
     background-color: #9c27b0;
-    text-align: right;
-    border-left-style: solid;
+    text-align: left;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.pacifist {
     background-color: #ea90ab;
-    text-align: right;
-    border-left-style: solid;
+    text-align: left;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.militarist {
     background-color: #8bc34a;
     text-align: left;
-    border-right-style: solid;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.security {
     background-color: #3f51b5;
     text-align: left;
-    border-right-style: solid;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.freedom {
     background-color: #ffeb3b;
-    text-align: right;
-    border-left-style: solid;
+    text-align: left;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.equality {
     background-color: #f44336;
     text-align: left;
-    border-right-style: solid;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.markets {
     background-color: #00897b;
-    text-align: right;
-    border-left-style: solid;
+    text-align: left;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.secular {
     background-color: #ff9800;
     text-align: left;
-    border-right-style: solid;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.religious {
     background-color: #03a9f4;
-    text-align: right;
-    border-left-style: solid;
+    text-align: left;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.progress {
     background-color: #9c27b0;
     text-align: left;
-    border-right-style: solid;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.tradition {
     background-color: #8bc34a;
-    text-align: right;
-    border-left-style: solid;
+    text-align: left;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
 div.assimilation {
     background-color: #ea90ab;
     text-align: left;
-    border-right-style: solid;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
 }
-div.multiculture {
-    background-color: #3f51b5;
+div.no {
+    background-color: #A9A9A9;
     text-align: right;
-    border-left-style: solid;
+    border-left-style: none;
+    border-radius: 0px 5px 5px 0px;
+    color: rgba(0, 0, 0, 0);
 }
 
 span.weight-300 {
