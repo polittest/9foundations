@@ -86,7 +86,7 @@
         var ax = quests[qn][0];
         var rate = quests[qn][1];
         var num = quests[qn][2];
-        scores[ax] += mult*(rate);
+        scores[ax] += mult*(rate<4?1);
 
         answers[qn] = mult;
         qn++;
@@ -104,7 +104,7 @@
         var ax = quests[qn][0];
         var rate = quests[qn][1];
         var num = quests[qn][2];
-        scores[ax] -= answers[qn]*(rate);
+        scores[ax] -= answers[qn]*(rate<4?1);
         init_question();
     }
     function calc_score(score) {
