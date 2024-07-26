@@ -1,8 +1,7 @@
 questions =
-    [[//Federal-Unitary`
+    [[//Care-Harm`
         [//4
-            "Police need more power and protection",
-"State laws should have precedence over national laws."
+            
         ],
         [//3
             
@@ -27,7 +26,7 @@ questions =
         ],
         [//-4
             
-        ]],[//Democratic-Authoritarian`
+        ]],[//Fairness-Inequity`
         [//4
             
         ],
@@ -51,7 +50,7 @@ questions =
         ],
         [//-4
             
-        ]],[//Globalist-Isolationist
+        ]],[//Liberty-Opression
         [//4
             
         ],
@@ -75,7 +74,7 @@ questions =
         ],
         [//-4
             
-        ]],[//Militarist-Pacifist
+        ]],[//In-group-Out-group
         [//4
             
         ],
@@ -100,7 +99,7 @@ questions =
         [//-4
             
         ]],
-[//Security-Freedom
+[//Honor-Disgrace
         [//4
             
         ],
@@ -125,7 +124,7 @@ questions =
         ],
         [//-4
             
-        ]],[//Equality-Markets`
+        ]],[//Divinity-Impiety
         [//4
             
         ],
@@ -149,7 +148,7 @@ questions =
         ],
         [//-4
      
-        ]],[//Secular-Religious
+        ]],[//Chastity-Degradation
         [//4
             
 
@@ -177,7 +176,7 @@ questions =
         ],
         [//-4
             
-        ]],[//Progressive-Traditional
+        ]],[//Authority-Subversion
         [//4
             
         ],
@@ -189,7 +188,24 @@ questions =
             
         ],
         [//1
-            
+            "The act of questioning authority is morally wrong.",
+
+"Large societies need hierarchy to function.",
+
+"If I were a soldier and disagreed with my commanding officer’s orders, I would obey anyway because that is my duty.",
+
+"People are divided into rulers and ruled ones.",
+
+"The most important thing for children to learn is to accept discipline and authority of their parents.",
+
+"Laws are important for society.",
+
+"It is important for professional environments to uphold formality and diplomatic etiquette.",
+
+"Ensuring wrongdoers experience discipline through retributive punishment is an essential component of justice and ensuring the proper functioning of society.",
+
+
+"The act of disrespecting a leader is morally wrong."
             
         ],
         [//-1
@@ -204,7 +220,7 @@ questions =
         [//-4
             
         ]],
-[//Assimilationist-Multiculturalist
+[//Efficiency-Waste
         [//4
             
         ],
