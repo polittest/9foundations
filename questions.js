@@ -52,7 +52,26 @@ questions =
             
         ]],[//Liberty-Opression
         [//4
-            
+            "Showing respect to an unjust authority is a foolish act.",
+
+"Liberty is more important than security.",
+
+"When tyranny becomes law, resistance becomes duty.",
+
+"People are divided into rulers and ruled ones.",
+
+"Slavery is morally wrong.",
+
+"Victimless crimes should not be crimes.",
+
+"Rulership which is determined by popular consent is universally preferable to rulership which is appointed from the top down instead.",
+
+"Citizens should never be denied the right to nonviolently assemble and protest in public spaces, even when it is likely to progress into rioting.",
+
+
+"We should get rid of coercion as much as possible.",
+
+"Protecting the public’s right to privacy from surveillance and espionage should be a greater priority than using said tools to catch terrorists or criminals."
         ],
         [//3
          
@@ -195,7 +214,9 @@ questions =
 "Ensuring wrongdoers experience discipline through retributive punishment is an essential component of justice and ensuring the proper functioning of society.",
 
 
-"The act of disrespecting a leader is morally wrong."
+"The act of disrespecting a leader is morally wrong.",
+
+"If the current governing system has proven itself to be competent at ensuring the wellbeing of its citizens: all of its laws should be followed to preserve social stability, including ones that seem arbitrary or that one might disagree with."
         ],
         [//3
             
