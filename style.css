@@ -199,14 +199,14 @@ div.isolation {
     color: rgba(0, 0, 0, 0);
 }
 div.pacifist {
-   background-color: #00897b;
+   background-color: #909090;
     text-align: right;
     border-left-style: none;
     border-radius: 0px 5px 5px 0px;
     color: rgba(0, 0, 0, 0);
 }
 div.militarist {
-    background-color: #909090;
+    background-color: #00897b;
     text-align: left;
     border-radius: 5px 0px 0px 5px;
     margin-left: 8px;
