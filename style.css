@@ -166,7 +166,7 @@ div.federal {
     margin-left: 8px;
 }
 div.unitary {
-    background-color: #909090;
+    background-color: #A9A9A9;
     text-align: right;
     border-left-style: none;
     border-radius: 0px 5px 5px 0px;
@@ -179,14 +179,14 @@ div.democratic {
     margin-left: 8px;
 }
 div.authority {
-    background-color: #909090;
+    background-color: #A9A9A9;
     text-align: right;
     border-left-style: none;
     border-radius: 0px 5px 5px 0px;
     color: rgba(0, 0, 0, 0);
 }
 div.globalist {
-    background-color: #03a9f4;
+    background-color: #00897b;
     text-align: left;
     border-radius: 5px 0px 0px 5px;
     margin-left: 8px;
@@ -199,52 +199,52 @@ div.isolation {
     color: rgba(0, 0, 0, 0);
 }
 div.pacifist {
-   background-color: #909090;
+   background-color: #00897b;
     text-align: right;
     border-left-style: none;
     border-radius: 0px 5px 5px 0px;
     color: rgba(0, 0, 0, 0);
 }
 div.militarist {
-    background-color: #ea90ab;
-    text-align: left;
-    border-radius: 5px 0px 0px 5px;
-    margin-left: 8px;
-}
-div.security {
     background-color: #909090;
     text-align: left;
     border-radius: 5px 0px 0px 5px;
     margin-left: 8px;
 }
+div.security {
+    background-color: #90A0AA;
+    text-align: left;
+    border-radius: 5px 0px 0px 5px;
+    margin-left: 8px;
+}
 div.freedom {
-    background-color: #A9A9A9;
+    background-color: #909090;
     text-align: right;
     border-left-style: none;
     border-radius: 0px 5px 5px 0px;
     color: rgba(0, 0, 0, 0);
 }
 div.equality {
-    background-color: #909090;
+    background-color: #AA2060;
     text-align: left;
     border-radius: 5px 0px 0px 5px;
     margin-left: 8px;
 }
 div.markets {
-    background-color: #A9A9A9;
+    background-color: #909090;
     text-align: right;
     border-left-style: none;
     border-radius: 0px 5px 5px 0px;
     color: rgba(0, 0, 0, 0);
 }
 div.secular {
-    background-color: #909090;
+    background-color: #9A4090;
     text-align: left;
     border-radius: 5px 0px 0px 5px;
     margin-left: 8px;
 }
 div.religious {
-    background-color: #A9A9A9;
+    background-color: #909090;
     text-align: right;
     border-left-style: none;
     border-radius: 0px 5px 5px 0px;
