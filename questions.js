@@ -178,16 +178,6 @@ questions =
             
         ]],[//Authority-Subversion
         [//4
-            
-        ],
-        [//3
-            
-        ],
-        [//2
-            
-            
-        ],
-        [//1
             "The act of questioning authority is morally wrong.",
 
 "Large societies need hierarchy to function.",
@@ -206,6 +196,16 @@ questions =
 
 
 "The act of disrespecting a leader is morally wrong."
+        ],
+        [//3
+            
+        ],
+        [//2
+            
+            
+        ],
+        [//1
+            
             
         ],
         [//-1
