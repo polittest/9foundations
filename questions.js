@@ -58,13 +58,13 @@ questions =
 
 "When tyranny becomes law, resistance becomes duty.",
 
-"It's better to live a short but free life, than to live a long life with very little freedom.",
+"It's better to live a short but free life, than to live a long life with very little to no freedom.",
 
 "Forced labour, even as a punishment is morally wrong.",
 
-"Victimless crimes should not be crimes.",
+"Every individual should have the right to own weapons for self-defense.",
 
-"Rulership which is determined by popular consent is universally preferable to rulership which is appointed by other ways.",
+"Rulership which is determined by popular consensus is universally preferable to rulership which is appointed by other ways.",
 
 "Citizens should never be denied the right to nonviolently assemble and protest in public spaces, even when it is likely to progress into rioting.",
 
@@ -139,7 +139,25 @@ questions =
         ]],
 [//Honor-Disgrace
         [//4
-            
+                                "I would sacrifice myself for a good cause.",
+
+"I would sacrifice my habits if they bothered the people I live with.",
+
+"In times of war, cheating is regrettable.",
+
+"Honor is a important virtue.",
+
+"Outside of competitions I treat my opponents as equals.",
+
+"People should always strive to reciprocate any favor they willingly accept from others later on, even when doing so is not expected.",
+
+"Betrayal is regrettable.",
+
+"Dating or having sex with people other than permanent partner when having one is immoral, even if partner would never find out about it."
+
+"Honesty is a virtue.",
+
+"One should defend a person who cannot defend himself."
         ],
         [//3
          
@@ -164,7 +182,27 @@ questions =
             
         ]],[//Divinity-Impiety
         [//4
-            
+            "Certain inanimate objects should be treated as sacred: immoral to disrespect them even when no property damage is done and nobody is around to witness it
+(Ex: Doing comedic poses in front of a war memorial).",
+
+"A society imbued with divinity (belief in religion and/or spirituality) is preferable to an atheistic one.",
+
+"Life after death is quite possible.",
+
+"Human remains should always be respected.",
+
+"Reccurring traditional or religious holidays are important.",
+
+"I'm religious.",
+
+"The world is not only the material real.",
+
+"Life without religion or spirituality makes people have less meaning in life.",
+
+
+"There is nothing wrong in religious fundamentalism.",
+
+"Religion is important for morality (which is important)."
         ],
         [//3
             
@@ -188,7 +226,7 @@ questions =
      
         ]],[//Chastity-Degradation
         [//4
-            "Chastity is an important virtue.",
+            "Cannibalism is always immoral and disgusting.",
 
 "People should not do things that are disgusting, even if no one is harmed.",
 
@@ -254,7 +292,7 @@ questions =
 
 "The act of disrespecting a leader is morally wrong.",
 
-"If the current governing system has proven itself to be competent at ensuring the wellbeing of its citizens: all of its laws should be followed to preserve social stability, including ones that seem arbitrary or that one might disagree with."
+"Important decisions should be made in a more centralized manner."
         ],
         [//3
             
