@@ -28,7 +28,26 @@ questions =
             
         ]],[//Fairness-Inequity`
         [//4
-            
+                "Social justice is important.",
+
+"It is a sign of a deeply flawed society when someone can inherit a large sum of wealth or power without having to work for it themselves, while others inherit little to nothing.",
+
+"All citizens charged with a crime, no matter how obviously guilty or problematic they are, should have the right to an impartial trial, fair representation, and due process.",
+
+"It is wrong to let friendship obstruct justice (Ex: covering for a close friend who drunkenly performed a hit and run).",
+
+"Forced labour, even as a punishment is morally wrong.",
+
+"Every individual should have the right to own weapons for self-defense.",
+
+"Rulership which is determined by popular consensus is universally preferable to rulership which is appointed by other ways.",
+
+"Citizens should never be denied the right to nonviolently assemble and protest in public spaces, even when it is likely to progress into rioting.",
+
+
+"We should get rid of coercion as much as possible.",
+
+"Protecting the public’s right to privacy from surveillance and espionage should be a greater priority than using said tools to catch terrorists or criminals."
         ],
         [//3
             
@@ -111,7 +130,6 @@ questions =
 
 "Even if all nationalities and ethnicities are equal, it would be better if each of them stayed in their own communities.",
 
-
 "If I had to choose to help someone in my family and someone outside my family, no matter who they are, I would rather choose person from my family",
 
 "Patriotism is a virtue."   
@@ -139,7 +157,7 @@ questions =
         ]],
 [//Honor-Disgrace
         [//4
-                                "I would sacrifice myself for a good cause.",
+"I would sacrifice myself for a good cause.",
 
 "I would sacrifice my habits if they bothered the people I live with.",
 
@@ -153,7 +171,7 @@ questions =
 
 "Betrayal is regrettable.",
 
-"Dating or having sex with people other than permanent partner when having one is immoral, even if partner would never find out about it."
+"Dating or having sex with people other than permanent partner when having one is immoral, even if partner would never find out about it.",
 
 "Honesty is a virtue.",
 
@@ -319,7 +337,26 @@ questions =
         ]],
 [//Efficiency-Waste
         [//4
-            
+                        "Wasting good food is wrong.",
+
+"We should avoid overproduction of items unless we are confident we will utilize them completely.",
+
+"We shouldn't over consume food if there are people around us who are hungry.",
+
+"We should produce based on use need not commodity.",
+
+"Wasting is immoral.",
+
+"Consumerist culture is harmful.",
+
+"Even during the holidays, we should be careful to not waste too much of our resources for the future.",
+
+"Letting food rot instead of using it is regrettable.",
+
+
+"Ideally, we would consume no more products than is enough to live on.",
+
+"Repairing and reusing is better than making new products."
         ],
         [//3
             
