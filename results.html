@@ -101,15 +101,14 @@
            return(NaN);
     }
 
-    function setBarValue(name, value) {
+ function setBarValue(name, value) {
         innerel = document.getElementById(name)
         outerel = document.getElementById("bar-" + name)
         outerel.style.width = (value + "%")
         innerel.innerHTML = (value + "%")
-if (name == "federal" || name == "democratic" || name ==  "globalist" || name == "militarist" || name ==  "security" || name == "equality" || name == secular" || name == "prigress" || name == "assimilation")
-         {
-} else
-{innerel.style.visibility = "hidden"}
+        if (innerel.offsetWidth + 20 > outerel.offsetWidth) {
+            innerel.style.visibility = "hidden"
+        }
     }
 
     leftArray = ["Care / Harm","Fairness / Inequity","Liberty / Oppression","In-group / Out-group","Honor / Disgrace","Divinity / Impiety","Chastity / Degradation","Authority / Subversion","Efficiency / Waste"]
