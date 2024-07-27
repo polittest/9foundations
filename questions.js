@@ -356,7 +356,7 @@ questions =
         ]],
 [//Efficiency-Waste
         [//4
-                        "Wasting good food is wrong.",
+                        "Wasting good food is immoral.",
 
 "We should avoid overproduction of items unless we are confident we will utilize them completely.",
 
@@ -364,7 +364,7 @@ questions =
 
 "We should produce based on use need not commodity.",
 
-"Wasting is immoral.",
+"Wasting thing which still can be used or fixed is wrong.",
 
 "Consumerist culture is harmful.",
 
