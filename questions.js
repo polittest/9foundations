@@ -1,7 +1,26 @@
 questions =
     [[//Care-Harm`
         [//4
-            
+            "Certain punishments are so cruel and violent, that even the most evil and dangerous individuals do not deserve them.",
+
+"An individual who is well-intended but could be considered a social misfit, weak/timid, and dull-witted, should be given the same courtesy and respect as their peers rather than treated as a burden by society.",
+
+"When raising a child, it would be preferable for them to end up kind and lowly, than successful but cold-hearted.",
+
+"Animal rights are important to me.",
+
+"No group should be marginalized.",
+
+"It is preferable for society to promote that people work through their mental health problems by talking about them openly, rather than by trying to hide and ignore them.",
+
+"People should be kind to each other.",
+
+"Society should be judged on how it treats misfortunate.",
+
+
+"The poor and those in need should be actively and systematically helped.",
+
+"Selfishness is deplorable."
         ],
         [//3
             
@@ -36,18 +55,18 @@ questions =
 
 "It is wrong to let friendship obstruct justice (Ex: covering for a close friend who drunkenly performed a hit and run).",
 
-"Forced labour, even as a punishment is morally wrong.",
+"Men and women should have equal access to the same opportunities.",
 
-"Every individual should have the right to own weapons for self-defense.",
+"We shouldn't let people exploit loopholes in our economic system for their own selfish desires.",
 
-"Rulership which is determined by popular consensus is universally preferable to rulership which is appointed by other ways.",
+"It is wrong to treat someone differently solely based on their race, ethnicity, or caste.",
 
-"Citizens should never be denied the right to nonviolently assemble and protest in public spaces, even when it is likely to progress into rioting.",
+"Economic equity or equality is good.",
 
 
-"We should get rid of coercion as much as possible.",
+"Nepotism should be put to an end.",
 
-"Protecting the public’s right to privacy from surveillance and espionage should be a greater priority than using said tools to catch terrorists or criminals."
+"Monarchy and aristocracy are idiotic ideas."
         ],
         [//3
             
