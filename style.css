@@ -140,7 +140,7 @@ div.bar {
     width: 50%;
 }
 img{
-border-radius: 20%;
+border-radius: 30%;
 }
 div.l {
 }
@@ -148,7 +148,7 @@ div.text-wrapper {
     font-family: 'Montserrat', sans-serif;
     font-size: 36pt;
     line-height: 36pt;
-    color: #404040;
+    color: #505050;
     display: inline-block;
 }
 div.federal {
