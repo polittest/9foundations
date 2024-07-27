@@ -139,6 +139,9 @@ div.bar {
     display: block;
     width: 50%;
 }
+img{
+border-radius: 20%;
+}
 div.l {
 }
 div.text-wrapper {
