@@ -144,7 +144,7 @@ questions =
 
 "A society works best when most of its members share similar values, beliefs, social norms, and mannerisms, with newcomers being expected to assimilate/adopt these values before joining.",
 
-"People should willing to sacrifice themselves for their community",
+"People should willing to sacrifice themselves for their community.",
 
 "Even if all nationalities and ethnicities are equal, it would be better if each of them stayed in their own communities.",
 
@@ -230,7 +230,7 @@ questions =
 
 "I'm religious.",
 
-"The world is not only the material real.",
+"The world is not only the material realm.",
 
 "Life without religion or spirituality makes people have less meaning in life.",
 
