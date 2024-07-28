@@ -183,7 +183,7 @@ questions =
 
 "Honor is a important virtue.",
 
-"Outside of competitions I treat my opponents as equals.",
+"Dignity is important to me.",
 
 "People should always strive to reciprocate any favor they willingly accept from others later on, even when doing so is not expected.",
 
