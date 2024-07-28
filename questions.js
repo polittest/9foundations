@@ -20,7 +20,7 @@ questions =
 
 "The poor and those in need should be actively and systematically helped.",
 
-"We should ensure that everyone has their basic needs (housing, food, clean water, electricity, etc.) met."
+"We should ensure that everyone has their basic needs (housing, food, clean water, health care, electricity, etc.) met."
         ],
         [//3
             
