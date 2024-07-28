@@ -9,22 +9,21 @@ questions =
 
 "Animal rights are important to me.",
 
-"No group should be marginalized.",
+"No group should be socially marginalized.",
 
 "It is preferable for society to promote that people work through their mental health problems by talking about them openly, rather than by trying to hide and ignore them.",
 
-"People should be kind to each other.",
+"People should be more kind to each other.",
 
-"Society should be judged on how it treats misfortunate.",
+"Society should be judged on how it treats it's misfortunate.",
 
 
 "The poor and those in need should be actively and systematically helped.",
 
-"Selfishness is deplorable."
+"We should ensure that everyone has their basic needs (housing, food, clean water, electricity, etc.) met."
         ],
         [//3
             
-
         ],
         [//2
             
@@ -57,7 +56,7 @@ questions =
 
 "Men and women should have equal access to the same opportunities.",
 
-"We shouldn't let people exploit loopholes in our economic system for their own selfish desires.",
+"No person should get immunity from law based on their high position, no matter whether they are a great businessman, a popular politician, high judge or a monarch.",
 
 "It is wrong to treat someone differently solely based on their race, ethnicity, or caste.",
 
@@ -66,7 +65,7 @@ questions =
 
 "Nepotism should be put to an end.",
 
-"Monarchy and aristocracy are idiotic ideas."
+"It should be considered socially unacceptable for respected, high-status authority figures (such as a publicly renown general, or great scientist) to demand preferential treatment from civil society (such as skipping queues at a hotel)."
         ],
         [//3
             
@@ -100,7 +99,7 @@ questions =
 
 "Forced labour, even as a punishment is morally wrong.",
 
-"Every individual should have the right to own weapons for self-defense.",
+"Every individual should have the right to own at least basic weapons for self-defense.",
 
 "Rulership which is determined by popular consensus is universally preferable to rulership which is appointed by other ways.",
 
