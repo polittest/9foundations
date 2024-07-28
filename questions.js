@@ -219,8 +219,7 @@ questions =
             
         ]],[//Divinity-Impiety
         [//4
-            "Certain inanimate objects should be treated as sacred: immoral to disrespect them even when no property damage is done and nobody is around to witness it
-(Ex: Doing comedic poses in front of a war memorial).",
+            "Certain inanimate objects should be treated as sacred: immoral to disrespect them even when no property damage is done and nobody is around to witness it (Ex: Doing comedic poses in front of a war memorial).",
 
 "A society imbued with divinity (belief in religion and/or spirituality) is preferable to an atheistic one.",
 
@@ -237,7 +236,7 @@ questions =
 "Life without religion or spirituality makes people have less meaning in life.",
 
 
-"There is nothing wrong in religious fundamentalism.",
+"Religious fundamentalism is best way to live a life.",
 
 "Religion is important for morality (which is important)."
         ],
