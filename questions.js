@@ -62,9 +62,6 @@ questions =
 
 "Economic equity or equality is good.",
 
-
-"Nepotism should be put to an end.",
-
 "No one should take advantage of others' bad situation to their advantage.",
 
 "It should be considered socially unacceptable for respected, high-status authority figures (such as a publicly renown general, or great scientist) to demand preferential treatment from civil society (such as skipping queues at a hotel)."
@@ -106,9 +103,6 @@ questions =
 "Rulership which is determined by popular consensus is universally preferable to rulership which is appointed by other ways.",
 
 "Citizens should never be denied the right to nonviolently assemble and protest in public spaces, even when it is likely to progress into rioting.",
-
-
-"We should get rid of coercion as much as possible.",
 
 "It is never justifiable to invade and militarily occupy another country for gain of land, resources or power.",
 
@@ -195,7 +189,7 @@ questions =
 
 "Betrayal is regrettable.",
 
-"Dating or having sex with people other than permanent partner when having one is immoral, even if partner would never find out about it.",
+"Dating or having sex with someone other than permanent partner when having one is immoral, even if partner would never find out about it.",
 
 "Honesty is a virtue.",
 
@@ -320,8 +314,6 @@ questions =
 
 "If I were a soldier and disagreed with my commanding officer’s orders, I would obey anyway because that is my duty.",
 
-"People should be divided into rulers and ruled ones.",
-
 "The most important thing for children to learn is to accept discipline and authority of their parents.",
 
 "Laws are important for society.",
@@ -333,7 +325,7 @@ questions =
 
 "The act of disrespecting a leader is morally wrong.",
 
-"Autocracy is best form of government.",
+"Autocracy is good form of government.",
 
 "Important decisions should be made in a more centralized manner."
         ],
@@ -368,9 +360,9 @@ questions =
 
 "We shouldn't over consume food if there are people around us who are hungry.",
 
-"We should produce based on use need not commodity.",
+"Using more expensive materials that have cheaper but not worse alternatives is foolish.",
 
-"Wasting thing which still can be used or fixed is wrong.",
+"Throwing away thing which still can be used or fixed is wrong.",
 
 "Consumerist culture is harmful.",
 
@@ -381,7 +373,6 @@ questions =
 
 "Ideally, we would consume no more products than is enough to live on.",
 
-"Using more expensive materials that have cheaper but not worse alternatives is foolish",
 
 "Repairing and reusing is better than making new products."
         ],
