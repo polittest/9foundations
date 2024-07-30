@@ -144,13 +144,12 @@ questions =
 
 "People should be willing to sacrifice themselves for their community.",
 
-"Even if all nationalities and ethnicities are equal, it would be better if each of them stayed in their own communities.",
+"Even if all nationalities and ethnicities are equal, it still would be better if each of them stayed in their own communities.",
 
-"People should stand up for their kin and nation more than for others.",
 
 "If I had to choose to help someone in my family and someone outside my family, no matter who they are, I would rather choose person from my family.",
 
-"Patriotism is a virtue."   
+"People should stand up for their kin and nation more than for others."
         ],
         [//3
             
