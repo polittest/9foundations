@@ -65,6 +65,8 @@ questions =
 
 "Nepotism should be put to an end.",
 
+"No one should take advantage of others' bad situation to their advantage.",
+
 "It should be considered socially unacceptable for respected, high-status authority figures (such as a publicly renown general, or great scientist) to demand preferential treatment from civil society (such as skipping queues at a hotel)."
         ],
         [//3
@@ -108,6 +110,8 @@ questions =
 
 "We should get rid of coercion as much as possible.",
 
+"It is never justifiable to invade and militarily occupy another country for gain of land, resources or power."
+
 "Protecting the public’s right to privacy from surveillance and espionage should be a greater priority than using said tools to catch terrorists or criminals."
         ],
         [//3
@@ -147,6 +151,8 @@ questions =
 "People should be willing to sacrifice themselves for their community.",
 
 "Even if all nationalities and ethnicities are equal, it would be better if each of them stayed in their own communities.",
+
+"People should stand up for their kin and nation more than for others.",
 
 "If I had to choose to help someone in my family and someone outside my family, no matter who they are, I would rather choose person from my family.",
 
@@ -327,6 +333,8 @@ questions =
 
 "The act of disrespecting a leader is morally wrong.",
 
+"Autocracy is best form of government.",
+
 "Important decisions should be made in a more centralized manner."
         ],
         [//3
@@ -372,6 +380,8 @@ questions =
 
 
 "Ideally, we would consume no more products than is enough to live on.",
+
+"Using more expensive materials that have cheaper but not worse alternatives is foolish",
 
 "Repairing and reusing is better than making new products."
         ],
