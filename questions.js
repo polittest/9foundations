@@ -110,7 +110,7 @@ questions =
 
 "We should get rid of coercion as much as possible.",
 
-"It is never justifiable to invade and militarily occupy another country for gain of land, resources or power."
+"It is never justifiable to invade and militarily occupy another country for gain of land, resources or power.",
 
 "Protecting the public’s right to privacy from surveillance and espionage should be a greater priority than using said tools to catch terrorists or criminals."
         ],
