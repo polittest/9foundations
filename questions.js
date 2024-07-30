@@ -97,7 +97,7 @@ questions =
 
 "It's better to live a short but free life, than to live a long life with very little to no freedom.",
 
-"Forced labour, even as a punishment is morally wrong.",
+"Forced labour, even as a punishment is wrong.",
 
 "Every individual should have the right to own at least basic weapons for self-defense.",
 
@@ -144,11 +144,11 @@ questions =
 
 "A society works best when most of its members share similar values, beliefs, social norms, and mannerisms, with newcomers being expected to assimilate/adopt these values before joining.",
 
-"People should willing to sacrifice themselves for their community.",
+"People should be willing to sacrifice themselves for their community.",
 
 "Even if all nationalities and ethnicities are equal, it would be better if each of them stayed in their own communities.",
 
-"If I had to choose to help someone in my family and someone outside my family, no matter who they are, I would rather choose person from my family",
+"If I had to choose to help someone in my family and someone outside my family, no matter who they are, I would rather choose person from my family.",
 
 "Patriotism is a virtue."   
         ],
@@ -278,7 +278,7 @@ questions =
 "The act of incest should be prohibited, even if it is certain that the child will not be born and the act takes place in private.",
 
 
-"Necrophilia should be prohibited even if the deceased person consented to it before death, because it's disgusting and is act of lack respect for the family and friends of the deceased.",
+"Necrophilia should be prohibited even if the deceased person consented to it before death, because it's disgusting and is act of lack of respect for the family and friends of the deceased one.",
 
 "A libertine lifestyle often leads to the degradation of a person."
 
